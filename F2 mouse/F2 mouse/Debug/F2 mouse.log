@@ -1,0 +1,30 @@
+﻿Build started 2013/3/28 3:40:49.
+     1>Project "G:\DATA CURRENT\CSCE 624\project\Backup\F3-mouse\F2 mouse\F2 mouse\F2 mouse.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\F2 mouse.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         F:\Visual studio 2012 Ult\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\F2 mouse.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt CkeyButton.cpp "F2 mouse.cpp" "F2 mouseDlg.cpp"
+         F2 mouseDlg.cpp
+         CkeyButton.cpp
+         Generating Code...
+         Compiling...
+         F2 mouse.cpp
+         Generating Code...
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         F:\Visual studio 2012 Ult\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\DATA CURRENT\CSCE 624\project\Backup\F3-mouse\F2 mouse\Debug\F2 mouse.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"F:\Visual studio 2012 Ult\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"G:\DATA CURRENT\CSCE 624\project\Backup\F3-mouse\F2 mouse\Debug\F2 mouse.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\DATA CURRENT\CSCE 624\project\Backup\F3-mouse\F2 mouse\Debug\F2 mouse.lib" /MACHINE:X86 "Debug\F2 mouse.res"
+         Debug\CkeyButton.obj
+         "Debug\F2 mouse.obj"
+         "Debug\F2 mouseDlg.obj"
+         Debug\stdafx.obj
+         F2 mouse.vcxproj -> G:\DATA CURRENT\CSCE 624\project\Backup\F3-mouse\F2 mouse\Debug\F2 mouse.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\F2 mouse.unsuccessfulbuild".
+         Touching "Debug\F2 mouse.lastbuildstate".
+     1>Done Building Project "G:\DATA CURRENT\CSCE 624\project\Backup\F3-mouse\F2 mouse\F2 mouse\F2 mouse.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.89
