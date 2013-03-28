@@ -1,4 +1,4 @@
 Information-Retrieval-Project
 =============================
 
-CSCE670
+CSCE624
