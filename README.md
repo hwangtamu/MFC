@@ -1,4 +1,4 @@
-Information-Retrieval-Project
+MFC
 =============================
 
 CSCE624
